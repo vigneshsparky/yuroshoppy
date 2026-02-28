@@ -2337,4 +2337,12 @@ Responsive Behaviour
         border-bottom: 1px dashed var(--ys-border);
         padding-bottom: 15px;
     }
+
+}
+
+@media (max-width: 350px) {
+    .app_promo_img {
+        height: 300px;
+    }
+
 }
