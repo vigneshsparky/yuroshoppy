@@ -2342,7 +2342,8 @@ Responsive Behaviour
 
 @media (max-width: 350px) {
     .app_promo_img {
-        height: 300px;
+        height: 270px;
     }
 
 }
+
